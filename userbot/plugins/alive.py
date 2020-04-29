@@ -6,14 +6,14 @@ from platform import uname
 from userbot import ALIVE_NAME
 from userbot.utils import admin_cmd
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No Name set yet.** [Check Guide.](https://how2techy.com/xtra-guide1/)"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "senza nome"
 
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
-    await alive.edit("`Currently Alive, my peru master!` **ψ(｀∇´)ψ**\n\n"
-                     "`Telethon version: 6.9.0\nPython: 3.7.3\n`"
-                     # Don't change this else you a TikTok loser, Son of Jinping. Add your own.
-                     "`Bot created by:` [SnapDragon](tg://user?id=719877937), @anubisxx\n"
-                     f"`My peru owner`: {DEFAULTUSER}\n\n"
-                     "https://github.com/Dark-Princ3/X-tra-Telegram")
+    await alive.edit("**🎲 __THEKILLERBOB USERBOT STATUS__ 🎲**\n\n"
+                     "🔹Tetethon Version: 7.0.1\n🔹Python Version: 3.8.0\n🔸**SUPPORT & UPDATE: @Thekillerbobbot **\n"
+                     "🔸**BOT CREATOR:** [TheKillerBob](tg://user?id=528569326) **\n"
+                     "🔹**CPU:** Ok \n\n🎲 **__USER DATA__** 🎲\n"
+                     f"🔸 **USER:** __{DEFAULTUSER}__\n"
+                     "🔸[Shoppy](https://shoppy.gg/@The_Killer_Bob)")
