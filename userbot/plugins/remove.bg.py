@@ -12,7 +12,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 #
-"""Remove.BG Plugin for @UniBorg
+"""Remove.BG Plugin for @TheKillerBobBot
 Syntax: .rmbg https://link.to/image.extension
 Syntax: .rmbg as reply to a media"""
 import asyncio
@@ -72,9 +72,9 @@ async def _(event):
             )
         end = datetime.now()
         ms = (end - start).seconds
-        await event.edit("Removed image's Background in {} seconds, powered by @XtraTgBot".format(ms))
+        await event.edit("Removed image's Background in {} seconds, powered by @TheKillerBobBot".format(ms))
     else:
-        await event.edit("ReMove.BG API returned Errors. Please report to @XtraTgBot\n`{}".format(output_file_name.content.decode("UTF-8")))
+        await event.edit("ReMove.BG API returned Errors. Please report to @TheKillerBobBot\n`{}".format(output_file_name.content.decode("UTF-8")))
 
 
 # this method will call the API, and return in the appropriate format
