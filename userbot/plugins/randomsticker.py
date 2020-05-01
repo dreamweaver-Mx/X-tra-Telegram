@@ -4,7 +4,7 @@
 
 """ Command: .dab , .brain 
 
-credit: lejend @r4v4n4"""
+credit: lejend @TheKillerBob"""
 
 import random
 
