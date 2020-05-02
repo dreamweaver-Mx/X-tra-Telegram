@@ -1,5 +1,5 @@
 """iffuci.tk pastebin site
-Code written by @loxxi {iffuci}
+Code written by @THe_Killer_Bob {iffuci}
 Syntax: .iffuci"""
 from telethon import events
 import asyncio
