@@ -1,6 +1,6 @@
 """Reply to an image/sticker with .mmf` 'text on top' ; 'text on bottom
-base by: @r4v4n4
-created by: @A_Dark_Princ3
+base by: @THE_KILLER_BOB
+created by: @THE_KILLER_BOB
 if you change these, you gay.
 """
 
@@ -112,7 +112,7 @@ async def _(event):
                 event.chat_id,
                 requires_file_name,
                 supports_streaming=False,
-                caption="Userbot: Powered by @x-tra-telegram",
+                caption="Userbot: Powered by @THEKILLERBOB",
                 # Courtesy: @A_Dark_Princ3
             )
             await event.delete()
