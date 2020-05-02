@@ -16,4 +16,4 @@ async def amireallyalive(alive):
                      "🔸**BOT CREATOR:** [TheKillerBob](tg://user?id=528569326) **\n"
                      "🔹**CPU:** Ok \n\n🎲 **__USER DATA__** 🎲\n"
                      f"🔸 **USER:** __{DEFAULTUSER}__\n"
-                     "🔸[Shoppy](https://shoppy.gg/@The_Killer_Bob)")
+                     "🔸[Shoppy](https://shoppy.gg/@DreamWeaver77)")
