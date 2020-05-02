@@ -1,7 +1,7 @@
 # BY @Deonnn
 """ Game of Thrones Dialogues That You Can Use In Everyday Situations
  command .gotm
- by @Deonnn
+ by @The_KIller_Bob
 """
 
 from telethon import events
