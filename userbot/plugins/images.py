@@ -2,8 +2,7 @@
 
 """Download & Upload Images on Telegram\n
 Syntax: `.img <Name>` or `.img (replied message)`
-\n Upgraded and Google Image Error Fixed by @NeoMatrix90 aka @kirito6969
-"""
+\n Upgraded and Google Image Error Fixed by @THEKILLERBOB aka @The_KIller_BOb"""
 
 from userbot.googol_images import googleimagesdownload
 import os
